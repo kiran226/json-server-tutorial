@@ -48,7 +48,7 @@
         {
             "id": 7,
             "title" :"Product 7",
-            "category" : "silver",
+            "category" : "ship",
             "price" : 4000,
             "description" :"This is description about Product 7" 
         },
