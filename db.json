@@ -35,7 +35,7 @@
             "id": 5,
             "title" :"Product 5",
             "category" : "clothes",
-            "price" : 9000,
+            "price" : 4000,
             "description" :"This is description about Product 5" 
         },
         {
@@ -56,7 +56,7 @@
             "id": 8,
             "title" :"Product 8",
             "category" : "fruits",
-            "price" : 8000,
+            "price" : 4000,
             "description" :"This is description about Product 8" 
         },
         {
