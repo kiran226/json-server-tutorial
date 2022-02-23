@@ -3,23 +3,26 @@
         {
             "id": 1,
             "title" :"Product 1",
-            "category" : "Electronics",
+            "category" : "electronics",
             "price" : 2000,
             "description" :"This is description about Product 1" 
         },
         {
             "id": 2,
             "title" :"Product 2",
-            "category" : "Gym equipment",
+            "category" : "electronics",
             "price" : 6000,
             "description" :"This is description about Product 2" 
         },
         {
             "id": 1,
             "title" :"Product 3",
-            "category" : "gloves",
+            "category" : "electronics",
             "price" : 1000,
-            "description" :"This is description about Product 3" 
+            "description" :"This is description about Product 3" ,
+            "discount" :{
+                "type":"shipping"
+            }
         },
         {
             "id": 4,
@@ -68,7 +71,7 @@
             "title" :"Product 10",
             "category" : "Fish",
             "price" : 5000,
-            "description" :"This is description about Product 10" 
+            "description" :"This is description about Product 10"     
         }
     ],
     "reviews":[
