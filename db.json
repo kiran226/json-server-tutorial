@@ -104,3 +104,9 @@
         }
     ]
 }
+
+// npm init -y
+// npm i json-server
+// npm run serve-json
+
+// "serve-json" : "json-server --watch db.json"
